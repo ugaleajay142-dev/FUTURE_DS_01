@@ -70,7 +70,6 @@ Designed for analysts and operations teams to explore deeper insights.
 **Key Visuals:**
 - Top States by Revenue  
 - Revenue by Customer Segment  
-- Geographic Revenue Distribution (U.S. Map)  
 - Daily Revenue Trend Analysis  
 
 ---
