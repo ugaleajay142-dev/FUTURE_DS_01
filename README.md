@@ -42,7 +42,7 @@ This dashboard answers key business questions such as:
 
 ### 🔹 Page 1: Sales Performance Overview
 
-![Sales Performance Overview](Screenshots/PAGE1.png)
+![Sales Performance Overview](https://github.com/ugaleajay142-dev/FUTURE_DS_01/blob/main/Page%201.png)
 
 **Purpose:**  
 Provides top-level management with a quick snapshot of overall business performance.
@@ -62,7 +62,7 @@ Provides top-level management with a quick snapshot of overall business performa
 
 ### 🔹 Page 2: Detailed Sales & Profit Analysis
 
-![Detailed Sales Analysis](Screenshots/PAGE2.png)
+![Detailed Sales Analysis](https://github.com/ugaleajay142-dev/FUTURE_DS_01/blob/main/Page%202.png)
 
 **Purpose:**  
 Designed for analysts and operations teams to explore deeper insights.
